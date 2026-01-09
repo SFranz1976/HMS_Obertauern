@@ -6,7 +6,7 @@ You will like the project!
 ---
 
 # RT-Infos
->+ see pyproject.toml for python env
+>+ see pyproject.toml for python enviroment/packages
 >+ see Infos4LocalDockerContainerSQLTestEviroment.txt for running docker container
 >+ Use .env_ForInternalTestEnviroment as a template for the .env file in the test environment.
 # Components
@@ -30,3 +30,4 @@ You will like the project!
 
 
 :::
+
